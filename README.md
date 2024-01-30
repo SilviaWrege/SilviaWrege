@@ -37,3 +37,18 @@
     <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-1c1d26?style=flat-square&logo=visual-studio-code&logoColor=0078d7" />
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-221F1B?style=flat-square&logo=github&logoColor=white" />
 </div>
+
+
+### 📊 GitHub Stats:
+
+<div style="display: inline_block" align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silviawrege&show_icons=true&theme=dracula">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviawrege&layout=compact&theme=dracula">
+</div>
+
+<div style="display: inline_block" align="center">
+    <img height="135em" src="https://streak-stats.demolab.com?user=silviawrege&theme=dracula">
+    <img height="135em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=silviawrege&theme=dracula">
+</div>
+
+##
