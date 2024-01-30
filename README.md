@@ -3,7 +3,7 @@
 * 🔥 Software Developer from Brazil living in London - UK
 * 🔭 Main Languages: JavaScript and TypeScript
 * 💬 Skills: TypeScript, JavaScript, Node, React, testing, HTML, CSS
-* 💹 Fun fact: I lived in 4 different countries
+* 💹 Fun fact: I lived in 3 different countries and settled in the 4th one
 * 💯 I love: movies, explore the world and eat
 * Connect with me at :
 
