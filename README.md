@@ -8,7 +8,7 @@
 * Connect with me at :
 
    <div style="display: inline_block">
-    <a href="https://www.linkedin.com/in/silviawrege/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/silvianatalewrege/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   </div>  
 
 
