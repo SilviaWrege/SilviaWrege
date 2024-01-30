@@ -5,13 +5,13 @@
 * 💬 Skills: TypeScript, JavaScript, Node, React, testing, HTML, CSS
 * 💹 Fun fact: I lived in 4 different countries
 * 💯 I love: movies, explore the world and eat
-  
-* 💻 More at:
+* Connect with me at :
 
-<div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/silviawrege/">
-    <img align="left" alt="Linkedin" height="30" src="./assets/linkedin.png" />
-  </a>
+   <div style="display: inline_block">
+    <a href="https://www.linkedin.com/in/silviawrege/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  </div>  
+
+
 
 ### 👨‍💻 Programming language
 
